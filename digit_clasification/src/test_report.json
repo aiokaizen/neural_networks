@@ -1,0 +1,417 @@
+[
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "00:18:39"
+        },
+        "score": "30.99%"
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "00:29:37"
+        },
+        "score": "51.5%"
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "00:40:27"
+        },
+        "score": "63.6%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "00:50:25"
+        },
+        "score": "72.3%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:00:40"
+        },
+        "score": "78.2%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:10:56"
+        },
+        "score": "79.5%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:21:36"
+        },
+        "score": "81.4%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:31:50"
+        },
+        "score": "82.8%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:42:06"
+        },
+        "score": "83.0%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "01:52:48"
+        },
+        "score": "84.7%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "02:03:36"
+        },
+        "score": "85.4%",
+        "chunk_size": 1
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "02:15:17"
+        },
+        "score": "85.02%",
+        "chunk_size": 128
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "02:31:32"
+        },
+        "score": "84.7%",
+        "batch_size": 10,
+        "pool_size": 60000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "02:48:20"
+        },
+        "score": "85.32%",
+        "batch_size": 10,
+        "pool_size": 60000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "03:06:17"
+        },
+        "score": "85.34%",
+        "batch_size": 10,
+        "pool_size": 60000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.001,
+            "training_duration": "03:17:11"
+        },
+        "score": "85.04%",
+        "batch_size": 1000,
+        "pool_size": 60000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:22:05"
+        },
+        "score": "85.98%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:26:53"
+        },
+        "score": "85.98%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:31:57"
+        },
+        "score": "85.98%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:37:14"
+        },
+        "score": "85.98%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:42:35"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:47:54"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:53:17"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "03:58:36"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "04:03:44"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "04:08:37"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.0001,
+            "training_duration": "04:13:32"
+        },
+        "score": "85.96%",
+        "batch_size": 1000,
+        "pool_size": 30000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "04:24:01"
+        },
+        "score": "86.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "04:34:30"
+        },
+        "score": "88.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "04:45:03"
+        },
+        "score": "88.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "04:56:05"
+        },
+        "score": "90.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "05:06:56"
+        },
+        "score": "90.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    },
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002,
+            "training_duration": "05:18:19"
+        },
+        "score": "90.0%",
+        "batch_size": 1,
+        "pool_size": 10000
+    }
+]

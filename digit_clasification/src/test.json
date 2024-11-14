@@ -1,0 +1,12 @@
+[
+    {
+        "neural_network": {
+            "hidden_nodes": [
+                65,
+                28
+            ],
+            "learning_rate": 0.002
+        },
+        "score": "89.7%"
+    }
+]
